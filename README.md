@@ -6,7 +6,7 @@ React와 TypeScript로 서비스 화면을 만들어 왔고, 진행한 프로젝
 - 🎓 상명대학교 소프트웨어학과 4학년 (졸업예정)
 - 🦁 멋쟁이사자처럼 대학 13기 (2025.03 – 2025.12)
 - 📜 SQLD (2026.03)
-- 🌐 Portfolio: https://portfolio-six-tawny-72.vercel.app
+- 🌐 Portfolio: https://424on.vercel.app
 - 📫 yoonho0204@gmail.com
 
 <br>
